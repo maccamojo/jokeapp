@@ -1,2 +1,2 @@
-# jokeapp
- Joke App using Spring Boot pushed to GitHub
+# Spring Boot Jokes App
+This Spring Boot web application displays a random Chuck Norris Joke on the index.
